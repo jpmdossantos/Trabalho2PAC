@@ -1,0 +1,14 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/ball.o
+./release/brick.o
+./release/paddle.o
+./release/breakout.o
+./release/interface.o
+./release/qrc_music.o
+./release/qrc_new.o
+./release/moc_mainwindow.o
+./release/moc_ball.o
+./release/moc_breakout.o
+);

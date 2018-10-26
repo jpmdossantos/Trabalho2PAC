@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>brick.png</file>
+        <file>ball.png</file>
+        <file>brick-cracked.png</file>
+        <file>paddle.png</file>
+        <file>paddle2.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>hit_effect.mp3</file>
+        <file>musica.mp3</file>
+        <file>Space_Shooter_Theme_Music_1.mp3</file>
+    </qresource>
+</RCC>
